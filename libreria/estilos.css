@@ -1,0 +1,94 @@
+
+.contenido {
+    background-color: rgb(350, 350, 350);
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 1 10px 30px rgba(0,0,0,0.12);
+}
+
+body {
+    background-color: #eef2f7;
+}
+.juego-card {
+    border: none;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    transition: all 0.3s ease;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.juego-card-4 {
+    max-width: 1100px;
+    margin: auto;
+}
+
+.card-img5-top-4 {
+    height: 300px;
+    object-fit: cover;
+}
+
+.juego-card-2 {
+    max-width: 1100px;
+    margin: auto;
+}
+
+.card-img3-top-2 {
+    height: 300px;
+    object-fit: cover;
+}
+
+.libro-card {
+    max-width: 500px;
+    margin: auto;
+}
+
+.card-img-top1 {
+    height: 139px;
+    object-fit: cover;
+}
+
+.libro-card-2 {
+    max-width: 500px;
+    margin: auto;
+}
+
+.card-img7-top2 {
+    height: 139px;
+    object-fit: cover;
+}
+
+.libro-card-3 {
+    max-width: 500px;
+    margin: auto;
+}
+
+.card-img8-top3 {
+    height: 139px;
+    object-fit: cover;
+}
+
+.libro-card {
+    transition: 0.3s;
+    height: 100%;
+}
+
+.libro-card:hover {
+    transform: scale(1.05);
+}
+
+.card-img-top1 {
+    height: 300px;
+    object-fit: cover;
+}
+
+.saga-titulo {
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
